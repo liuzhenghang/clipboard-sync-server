@@ -2,7 +2,8 @@
 # Clipboard Sync Server
 
 Clipboard Sync Server是一个用于多设备同步剪贴板内容的服务，可以让你在不同的设备上共享剪贴板数据。它支持Windows、MacOS和Linux操作系统，并提供了使用Docker进行部署的选项，推荐在内网或者私有网络环境中使用。默认情况下，服务将在端口8765上运行。
-
+## 客户端 Clipboard Sync Client
+[Clipboard Sync Client](https://github.com/liuzhenghang/clipboard-sync-client)
 ## 特性
 
 - 多设备同步：将剪贴板内容同步到多个设备，确保您的剪贴板数据无缝共享。
