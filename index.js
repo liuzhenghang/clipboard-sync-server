@@ -11,7 +11,7 @@ wss.on('connection', (ws) => {
     console.log('Client connected');
 
     ws.on('message', (message) => {
-        console.log(`Received: ${message}`);
+        // console.log(`Received: ${message}`);
         var dataObj = JSON.parse(message);
         if (!dataObj.clientId){
             return
