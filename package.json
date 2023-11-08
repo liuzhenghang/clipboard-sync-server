@@ -1,0 +1,15 @@
+{
+  "name": "clipboard-sync-server",
+  "version": "1.0.0",
+  "description": "sync clipboard between MacOS Windows Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "fengyebuhong",
+  "license": "ISC",
+  "devDependencies": {
+    "ws": "^8.14.2"
+  }
+}
