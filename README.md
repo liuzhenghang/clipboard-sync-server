@@ -53,5 +53,3 @@ docker pull fengyebuhong/clipboard-sync-server
 Clipboard Sync Server 使用 MIT 许可证。有关更多信息，请参阅[LICENSE文件](LICENSE)。
 
 ---
-
-请注意，上述文档是一个示例，您可能需要根据项目的实际情况和需求进行调整和扩展。此外，您还可以添加更多的详细信息、配置示例等，以帮助用户更好地理解和使用您的项目。
